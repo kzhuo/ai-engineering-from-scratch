@@ -53,6 +53,7 @@ mlruns/
 *.bin
 *.h5
 .gstack/
+.codegraph/
 
 .link-cache.json
 .claude/
